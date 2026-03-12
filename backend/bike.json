@@ -1,0 +1,9 @@
+{
+  "name": "Ciclovia Francigena",
+  "region": "Lazio",
+  "lengthKm": 401.2,
+  "surface": "misto",
+  "difficulty": "medio",
+  "official": true,
+  "verified": true
+}
